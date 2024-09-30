@@ -1,0 +1,6 @@
+name: infra-test
+runtime:
+  name: nodejs
+  options:
+    nodeargs: "--loader ts-node/esm --no-warnings"
+description: A test
