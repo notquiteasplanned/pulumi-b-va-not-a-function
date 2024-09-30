@@ -9,7 +9,7 @@
     "dependencies": {
         "@internal/local-command": "file:../components/local-command",
         "@pulumi/command": "^1.0.1",
-        "@pulumi/pulumi": "^3.113.0",
+        "@pulumi/pulumi": "^3.134.1",
         "ts-node": "^10.9.2"
     }
 }
